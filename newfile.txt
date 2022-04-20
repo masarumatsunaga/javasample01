@@ -1,0 +1,5 @@
+#newfile.txt
+#Wed Apr 13 21:32:12 JST 2022
+depth=32
+width=1024
+height=512
